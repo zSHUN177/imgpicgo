@@ -1,0 +1,2 @@
+# imgpicgo
+save blog imgs
